@@ -5,7 +5,7 @@ import sys
 
 arr = []
 s=0
-maxs=0
+maxs=-9*7
 
 for arr_i in xrange(6):
    arr_temp = map(int,raw_input().strip().split(' '))
